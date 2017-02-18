@@ -1,2 +1,2 @@
 # Calculator
-Simple Calculator. Addition, Division, Multiplication, Subtraction of whole numbers and decimal numbers.
+Simple Calculator. Addition, Division, Multiplication, Subtraction of whole numbers numbers.
